@@ -1,0 +1,9 @@
+streamlit>=1.25
+transformers>=4.47.0
+torch>=2.5.0
+pdfminer.six>=20240706
+nltk>=3.9
+pandas>=2.0
+sentence-transformers
+openai
+streamlit
